@@ -3,7 +3,9 @@ Implementation of "MetaFusion: Infrared and Visible Image Fusion via Meta-Featur
 
 # Requirements
 python 3.7
+
 pytorch 1.8.1
+
 cv2 4.5.5
 # Test
 You can use the following command to test：
